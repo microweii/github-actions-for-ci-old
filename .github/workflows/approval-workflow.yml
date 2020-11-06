@@ -1,1 +1,2 @@
 name: LOL APPROVAL workflow bro
+on: pull_request_review
